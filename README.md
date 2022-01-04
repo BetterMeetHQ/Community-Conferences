@@ -13,3 +13,6 @@ Overview of community building conferences, listed chronologically (the most rec
 | Sep 14-16, 2021 | [CMX Summit 2021](https://events.cmxhub.com/events/details/cmx-cmx-hq-presents-cmx-summit-2021/) | online | ? | ? |
 | Sep 22-23, 2021 | [Khoros Engage 2021](https://pages.khoros.com/Khoros-Engage-2021.html) | online | free | - |
 | Oct 6-7, 2020 | [CMX Summit 2020](https://cmxhub.com/summit2020/) | online | ? | - |
+| Sep 23-25, 2019 | [TheCR Connect 2019](https://communityroundtable.com/what-we-do/training-and-events/thecr-connect/thecr-connect-2019/) | Boston, MA, USA |  |  |
+| Sep 30 - Oct 2, 2018 | [TheCR Connect 2018](https://communityroundtable.com/what-we-do/training-and-events/thecr-connect/thecr-connect-2018/) | Boston, MA, USA |  |  |
+| Oct 2-3, 2017 | [TheCR Connect 2017](https://communityroundtable.com/what-we-do/training-and-events/thecr-connect/thecr-connect-2017/) | Boston, MA, USA |  |  |
