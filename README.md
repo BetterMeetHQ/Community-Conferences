@@ -4,6 +4,7 @@ General list of community management & building conferences.
 
 - [CMX Summit](https://cmxhub.com/summit/)
 - [TheCR Connect](https://communityroundtable.com/what-we-do/training-and-events/thecr-connect/)
+- [Swarm Conference](https://swarmconference.com.au/)
 
 Overview of community building conferences, listed chronologically (the most recent - on top).
 
